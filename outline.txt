@@ -1,0 +1,133 @@
+- Det holder ikke å nynne melodien, du må også kunne teksten.
+
+
+Hei,
+
+jeg heter Andreas Heim og jobber i BEKK Consulting.
+Jeg skal holde en lyntale for dere som heter:
+Det holder ikke å bare nynne melodien, du må også kunne teksten.
+
+Tittelen er ikke helt sann. Fordi det holder ikke alltid å kunne teksten. Man må også skjønne hva som blir sunget. (Klikk)
+
+Slide: Scuse me while i kiss this guy
+
+Ellers er det lett for at meningen forsvinner.
+
+(Klikk).
+
+
+Det er to ting jeg vil til livs i vår bransje.
+
+1. Folk som synger uten å skjønne teksten.
+
+2. Folk som bare nynner melodien.
+
+(klikk)
+Altså, misforstå meg ikke. Det er greit å nynne melodien i en liten periode, men du må etterhvert lære deg
+å forstå hva som blir sunget, og synge med av full hals.
+
+Og hvis ikke sangstemmen din duger, ja da får du lære deg å spille på et annet instrument.
+
+Nok eufemismer.
+
+(Klikk)
+
+
+Hva tyder dette på?
+Her har vi et eksempel på noen som ikke skjønner programmeringspråket, 
+de skjønner vel strengt talt ikke så mye om programmering heller, håper de ikke får så godt betalt.
+
+Men det finnes mange eksempler på ting man gjør, og hvor det er åpenbart at man ikke skjønner hvorfor.
+
+
+Nytt eksempel. (klikk)
+
+Hvor mange har sett testkode som speiler produksjonskoden 100%. Altså noe som dette:
+
+
+
+Joda, vi kjører tdd hele veien vi.
+
+Hva i all verden forsøker man å oppnå med dette? Dette er helt verdiløst, jeg vil gå så langt som å si at dette har negativ verdi. Dette er en
+halvhjertet innsats som ikke hører hjemme noe sted.
+Det gir ingen nytte (ved slike enkle tilfeller) å gjøre ting på denne måten. Det fører til mer kode å vedlikeholde hvis du må gjøre
+en endring.  
+
+Hvorfor skriver du tester? Skriver du de for å teste at noe faktisk skjer, eller for testenes skyld? Mange har krav på seg om å skrive tester
+men noen vet dessverre ikke hvorfor vi gjør det.
+
+Test heller at noe faktisk blir satt inn i databasen. 
+
+
+Eksperimenter med in-memory-databaser. 
+Lær deg teksten.
+
+
+
+Nytt eksempel: (klikk)
+
+Du kjører jenkins, men bryr gjør ingen ting når testene brekker.
+
+Hvorfor?
+
+"Alle burde jo ha en jenkins på prosjektet".
+
+Glem det. Hvorfor bør man ha jenkins?
+
+Lær deg teksten, skjønn hva som synges. Bruk Jenkins for å verifisere at det du har laget er klart for produksjon, eller i hvertfall at det kompilerer uten feil. 
+Se informasjonen, gjør en beslutning på bakgrunn av den.
+
+
+
+Nytt eksempel
+
+Utnytt rammeverk og verktøy.
+
+
+Hvis du bruker Ruby on Rails, ikke lag ditt eget databasemigrasjonsrammeverk. Lær deg å programmere ruby. Skjønn hva MVC er. Les dokumentasjonen, 
+lær deg hvordan det virker!
+
+Ikke programmer på samme måte som om det var en php-applikasjon fra 1997. Sett deg inn i nye paradigmer, og skjønn hvordan det virker.
+
+
+
+Når du bruker maven. Plis. Ikke sjekk inn jar-filer. Skjønn hvorfor du bruker maven. Reflekter over det.
+Gir det deg ikke det du trenger? Bytt det ut. Prøv noe nytt. Les en artikkel på internett. Begynn å lær teksten.
+
+
+Hvis du bruker git. Lær deg litt om det. Ikke bruk det som subversion. Lek deg. Finn ut hvordan man bruker brancher.
+
+
+
+
+- stikkord:
+
+- javascript, lær deg språket. Det er annerledes fra java og c# og er faktisk veldig morsomt. Les litt om javascriptrammeverk. Lær deg melodien, nynn teksten, syng i kor.
+ikke programmer javascript som om det var hvilket som helst annet statisk typet språk, fordi det er det faktisk ikke!  Men bruk de samme kvalitetsreferansene som du gjør
+når du programmerer til vanlig. I et java eller c#-prosjekt, ville du hatt all koden din i en fil? Ville du akseptert at det ikke fantes noen tester.
+og at ingen ting var testbart?
+
+- samme gjelder med css. Tenk struktur! 
+
+- Hvorfor finner du deg i at ikke database-skjemaet ditt ikke er versjonert? 
+
+Avsluting.
+
+Ok. Som du sikkert har forstått så er alt dette satt på spissen, og disse tingene har jeg gjort selv opptil flere ganger. 
+Men det vi må begynne å tenke på er hvorfor vi gjør ting. 
+
+For eksempel Maven: Det gir oss god kontroll over avhengigheter, men det er jævlig vanskelig å gjøre noe utafor boksen. Det finnes masse plugins, men aldri noen
+som gjør *akkurat* det du ønsker. Er vi helt sikre på at maven i vårt prosjekt ikke er mer til skade enn til gangns. 
+
+Hvorfor bruker vi scrum? Det gir oss en viss trygghet og forutsigbarhet, men gud bedre så mye tid som går bort på estimering, backlogplanlegging, demoer, retrospektiver,
+sprintplanning. People over processes? Hallo? 
+Hva er det vi ofrer for denne såkalte forutsigbarheten? Vi ofrer leveransekraft i all den tiden som går bort til overhead. 
+Det er forsåvidt greit hvis man trenger denne forutsigbarheten, 
+og hvis man mot formodning har en sjans i havet til å treffe på estimatene sine. Men hvis man ikke trenger denne forutsigbarheten så burde man reflektere 
+litt over hva man driver med.
+
+
+Mitt poeng er: Ikke gjør noe, bare for å gjøre det. Tenk litt over hvilke konsekvenser det har, hvilke fordeler og ulemper fører det med seg. Løft blikket. Lær deg teksten, og syng med.
+
+Takk for meg.
+
